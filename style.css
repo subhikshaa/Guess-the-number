@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZW7Fryj5FwT4J73P-JWIk2Q-cBQCqowB1-Q&usqp=CAU");
+    background-size:cover ;
+    text-align: center;
+    font-size: xx-large;
+}
+h1,p{
+    color: lightgray;
+    text-shadow:2px 5px 5px;
+}
+
+button,input{
+    width: 80px;
+    height: 40px;
+    background: lightblue;
+    font-size: 20px;
+    text-shadow:2px 5px 5px;
+    border-radius: 20%;
+    border: 4px solid blue;
+    text-align: center;
+}
+#output{
+    color: cyan;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bold;
+}
